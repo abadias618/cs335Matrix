@@ -1,4 +1,4 @@
-package com.matrix;
+package com.matrix.core;
 
 /**
  * Implementation of the Matrix interface
