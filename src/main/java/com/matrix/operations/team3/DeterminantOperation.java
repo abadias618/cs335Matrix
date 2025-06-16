@@ -23,7 +23,7 @@ public class DeterminantOperation {
         double result;
 
         if (n == 2) {
-            double a = matrix.get(0, 0); // ...
+            double a = matrix.get(0, 0); // ....
             double b = matrix.get(0, 1);
             double c = matrix.get(1, 0);
             double d = matrix.get(1, 1);
